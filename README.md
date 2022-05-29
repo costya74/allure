@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/f6vva9yskjg29bu2?svg=true)](https://ci.appveyor.com/project/costya74/allure-delivery-card)
